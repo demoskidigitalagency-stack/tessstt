@@ -2,7 +2,6 @@
   "name": "demoski-landing-page",
   "version": "1.0.0",
   "description": "Premium landing page for Demoski Digital Agency Media Buying Masterclass",
-  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
